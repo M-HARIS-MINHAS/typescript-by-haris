@@ -1,0 +1,14 @@
+{
+  "name": "step-01-hello-world",
+  "version": "1.0.0",
+  "description": " typescriptthis is code is prepared to study the",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haris",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12"
+  }
+}
